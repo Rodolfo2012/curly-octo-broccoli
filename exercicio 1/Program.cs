@@ -13,7 +13,7 @@ namespace exercicio_1
            string N1  = Console.ReadLine();
            int N3 = int.Parse(Console.ReadLine());
            float N4 = float.Parse(Console.ReadLine());
-           string N6 = (Console.ReadLine());
+           string N6 = Console.ReadLine();
            
             Console.WriteLine("Entre com o seu nome");
             Console.WriteLine(N1);
